@@ -1,11 +1,12 @@
 name: pick_color_from_camera
-description: "A new Flutter package project."
+description: As the name suggests "Pick Color From Camera" lets its users to obtain the RGB(hex) color code of any object.It opens the back camera and shows color code of the object that comes in focus within the centered target.You can utilize RGB(hex) color code of object according to your need.
+
 version: 0.0.1
-homepage: https://github.com/sabirbugti9
+homepage: https://github.com/sabirbugti9/pick_color_from_camera/
 
 environment:
   sdk: '>=3.4.3 <4.0.0'
-  flutter: ">=1.17.0"
+  flutter: ">=1.20.0"
 
 dependencies:
   flutter:
