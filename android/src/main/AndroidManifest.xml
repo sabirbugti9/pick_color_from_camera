@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sabir.pick_color_from_camera">
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name =
+        "android.permission.READ_EXTERNAL_STORAGE"/>
+    <application>
+
+        <activity
+            android:name=".CameraActivity"
+            android:label="Second Screen from Native Code"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+    </application>
+
+</manifest>
