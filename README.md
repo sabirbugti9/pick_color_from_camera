@@ -1,4 +1,4 @@
-# Pick Color Form Camera
+# Pick Color From Camera
 
 A flutter plugin to detect colors using camera and provides its code to you.
 
