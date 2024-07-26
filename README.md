@@ -7,6 +7,9 @@ A flutter plugin to detect colors using camera and provides its code to you.
 !["DEMO PREVIEW"](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm11em4xcWVwZDZ5OWFreHJueTF0dDdlejJyZjZ3eW1tcGpiNmdiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KA9UVJyYMXiixlBqDS/giphy.gif)
 
 
+!["DEMO PREVIEW"](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmRucXJneGlkcm0xbTlrOHJyYWNrb2p3OXpjODNubXAyNDB1em40cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vN8bFAzrlVp9kP9IEd/giphy.gif)
+
+
 ## Installation
 
 Add pick_color_from_camera as a dependency in your pubspec.yaml file
