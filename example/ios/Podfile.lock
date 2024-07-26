@@ -1,0 +1,28 @@
+PODS:
+  - Flutter (1.0.0)
+  - permission_handler_apple (9.3.0):
+    - Flutter
+  - pick_color_from_camera (0.0.2):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - permission_handler_apple (from `.symlinks/plugins/permission_handler_apple/ios`)
+  - pick_color_from_camera (from `.symlinks/plugins/pick_color_from_camera/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  permission_handler_apple:
+    :path: ".symlinks/plugins/permission_handler_apple/ios"
+  pick_color_from_camera:
+    :path: ".symlinks/plugins/pick_color_from_camera/ios"
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  permission_handler_apple: 9878588469a2b0d0fc1e048d9f43605f92e6cec2
+  pick_color_from_camera: e9e95adfbd8254c49e2511b6b235b370f3a38f42
+
+PODFILE CHECKSUM: e77a59ecd48be3d565e693333ed6984901234537
+
+COCOAPODS: 1.14.3

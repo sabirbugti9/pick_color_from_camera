@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:permission_handler/permission_handler.dart';
 import 'package:pick_color_from_camera/pick_color_from_camera.dart';
 
 void main() {

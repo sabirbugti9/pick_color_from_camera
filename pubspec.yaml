@@ -1,7 +1,7 @@
 name: pick_color_from_camera
-description: As the name suggests "Pick Color From Camera" lets its users to obtain the RGB(hex) color code of any object.It opens the back camera and shows color code of the object that comes in focus within the centered target.You can utilize RGB(hex) color code of object according to your need.
+description: Pick Color From Camera Capture RGB(hex) color codes of objects using your device's back camera. Focus on an object within the centered target to get its color code for your needs.
 
-version: 0.0.1
+version: 1.0.0
 homepage: https://github.com/sabirbugti9/pick_color_from_camera/
 
 environment:
@@ -29,6 +29,8 @@ flutter:
     platforms:
       android:
         package: com.sabir.pick_color_from_camera
+        pluginClass: ColorPickerCameraPlugin
+      ios:
         pluginClass: ColorPickerCameraPlugin
   # assets:
   #   - images/a_dot_burr.jpeg
